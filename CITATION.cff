@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+title: "Why Verification Fails in Multi-Agent LLM Systems: A Geometric Theory of Blind Spots, Repair and Verifier Allocation"
+authors:
+  - family-names: Darapaneni
+    given-names: Narayana
+year: 2026
+license: MIT

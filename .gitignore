@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+data/
+llm_experiments/data/
+llm_experiments/cache/
+MAST/
+results.json
+results_*.json
+fig_*.pdf
+!llm_experiments/results/**
